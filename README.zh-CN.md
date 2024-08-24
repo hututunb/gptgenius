@@ -31,7 +31,7 @@
 - [chatgpt-vercel-sample](https://chatgpt-vercel-sample.vercel.app/)
 
 ## 使用指南
-可以访问上面的在线示例或者自己私有化部署进行体验
+可以访问上面的在线示例或者自己私有化部署进行体验,enjoy
 
 ### 对话
 点击左上角可以添加对话，有两种类型：
